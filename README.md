@@ -4,8 +4,9 @@ Esse repositório é um teste para a empresa green-acesso
 
 Primeiro, comece o servidor de desenvolvimento:
 
-
+```
 yarn dev
+```
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver a aplicação.
 
